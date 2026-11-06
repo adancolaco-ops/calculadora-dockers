@@ -1,0 +1,6 @@
+{
+  "name": "calculadora",
+  "private": true,
+  "description": "Calculadora web simples para treinar Docker e GitHub Actions",
+  "scripts": { "start": "node server.js", "test": "node --test" }
+}
